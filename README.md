@@ -1,4 +1,6 @@
-## EXNO-3-DS
+## NAME : NAVEEN KUMAR T
+## REG NO : 212223220067
+## EXNO : 3 Feature Encoding and Transformation
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -83,20 +85,6 @@ We use this categorical data encoding technique when the features are nominal(do
 
 
   ![Screenshot 2025-04-19 102604](https://github.com/user-attachments/assets/bc7a7a52-5b37-42c2-a8a7-767bdf4e4d14)
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
 
 
 
